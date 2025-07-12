@@ -74,5 +74,5 @@ tween.Completed:Connect(function()
         wait(0.05)
     end
     screenGui:Destroy()
-    loadstring(game:HttpGet("https://pastefy.app/u3Th1X20/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/UFUDVDbW/raw"))()
 end)
